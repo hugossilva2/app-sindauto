@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "app-sindauto",
+    "slug": "app-sindauto",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
