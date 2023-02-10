@@ -10,6 +10,7 @@ export function Button( {title, ...rest }: Props) {
     bg='red.500'
     h={16}
     fontSize='sm'    
+    
     rounded='sm'
     _pressed={{bg:'red.400'}}
 
